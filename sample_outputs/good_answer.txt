@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is the field of computer science focused on creating systems capable of performing tasks that typically require human intelligence.
+
+Examples include language translation, image recognition, recommendation systems, and autonomous vehicles.
+
+Modern AI often relies on machine learning, where models learn patterns from data rather than following explicitly programmed rules.
+
+AI has applications across healthcare, finance, education, manufacturing, and scientific research.
+
+Despite its benefits, AI also presents challenges such as bias, privacy concerns, and the need for responsible governance.
